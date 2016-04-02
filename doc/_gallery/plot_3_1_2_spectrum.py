@@ -32,7 +32,7 @@ plt.xlim(0, time.max())
 plt.xlabel('Time (ms)')
 
 plt.subplot(212)
-plt.plot(dsp)
+plt.plot(freq, dsp)
 plt.grid(True)
 plt.title('Spectrum')
 plt.xlabel('Frequency (Hz)')

@@ -13,6 +13,7 @@ Contents:
    
    introduction
    nonstationary_signals
+   atomic_solutions
    auto_gallery
    api
 
